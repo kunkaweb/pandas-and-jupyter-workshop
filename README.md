@@ -1,7 +1,5 @@
 # An introduction to data analysis with Pandas & Jupyter notebook
 
-## [https://github.com/spbail/pandas-and-jupyter-workshop](https://github.com/spbail/pandas-and-jupyter-workshop)
-
 This workshop is aimed at Python users with no prior knowledge of Pandas. In this workshop, we will explore a small dataset and introduce you to the basics of data analysis workflows using the Pandas library and Jupyter notebook. After the workshop, learners will know how to to load data from a CSV file, do some basic exploratory data analysis and data cleaning, generate simple statistics, and create some basic data visualizations.
 
 Materials by Sam Bail [@spbail](http://twitter.com/spbail), based on a workshop by [Alda Pontes](https://www.linkedin.com/in/aldapontes/).
